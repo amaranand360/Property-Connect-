@@ -109,7 +109,7 @@ const Index = () => {
                 Search Properties Now
               </Link>
             </Button>
-            <Button asChild size="lg" variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-slate-800 px-8 py-4 text-lg font-semibold">
+            <Button asChild size="lg" variant="outline" className="border-2 border-white text-white bg-whitetext-slate-800 px-8 py-4 text-lg font-semibold">
               <Link to="/login">
                 List Your Property Free
                 <ArrowRight className="ml-2 h-5 w-5" />
